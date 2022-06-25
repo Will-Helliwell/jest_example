@@ -1,0 +1,22 @@
+{
+  "name": "jest_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Will-Helliwell/jest_example.git"
+  },
+  "author": "Will-Helliwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Will-Helliwell/jest_example/issues"
+  },
+  "homepage": "https://github.com/Will-Helliwell/jest_example#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
